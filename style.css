@@ -9,8 +9,8 @@ body {
     );
 }
 .container {
-    width: 1800px;
-    height: 100px;
+    width: fit-content;
+    height: fit-content;
     background: white
 
 }
